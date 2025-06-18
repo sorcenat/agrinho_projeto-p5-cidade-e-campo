@@ -59,7 +59,6 @@ Essa é a explicação geral do projeto, se precisar de mais detalhes ou quiser 
 Você disse:
 explica como o projeto foi feito
 
-O ChatGPT disse:
 Ah, entendi! Você quer uma explicação sobre como o projeto foi feito, ou seja, o passo a passo de como eu criei o código, como planejei a estrutura e a lógica por trás da animação e da transição. Vamos lá:
 
 1. Planejamento Inicial
